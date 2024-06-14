@@ -4,14 +4,14 @@
 
 1. Clone the repository:
    ```bash
-   git clone <YOUR_GITHUB_REPO_URL>
+   git clone <your_github_repo>
    cd myproject
    ```
 
 2. Create and activate a virtual environment:
    ```bash
    python -m venv env
-   source env/bin/activate  # On Windows use `env\Scripts\activate`
+    `env\Scripts\activate`
    ```
 
 3. Install dependencies:
